@@ -1,0 +1,12 @@
+.env
+proxy.txt
+accounts.txt
+main.js
+signup_dump.html
+signup_hdr.txt
+CapSkipInstaller.msi
+*.msi
+*.exe
+/bin/
+/dist/
+har_extract.txt
